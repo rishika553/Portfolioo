@@ -2,3 +2,8 @@
 .DS_Store
 Thumbs.db
 *.log
+
+# Large video files — host on YouTube/Cloudinary instead
+*.mp4
+*.webm
+*.mov
